@@ -10,5 +10,6 @@ public class HomeActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home);
         System.out.print("我在homeAct的onCreate方法里");
+        System.out.print("我在靳国的分支上");
     }
 }
