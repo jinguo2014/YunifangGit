@@ -12,5 +12,6 @@ public class HomeActivity extends AppCompatActivity {
         System.out.print("我在homeAct的onCreate方法里");
         System.out.print("我在靳国的分支上");
         System.out.print("我在靳国的分支上");
+        System.out.print("我在靳国的分支上");
     }
 }
